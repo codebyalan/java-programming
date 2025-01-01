@@ -1,4 +1,4 @@
-package dp.weighted_climbing_stars;
+package dp.weighted_climbing_stairs;
 
 public class MinCostClimbingStairsTabular implements  MinCostClimbingStairs{
     @Override

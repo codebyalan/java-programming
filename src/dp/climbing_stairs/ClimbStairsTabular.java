@@ -1,6 +1,6 @@
-package dp.climbing_stars;
+package dp.climbing_stairs;
 
-public class ClimbStairsTabular implements ClimbingStars {
+public class ClimbStairsTabular implements ClimbingStairs {
 
 
     @Override

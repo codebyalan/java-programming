@@ -1,6 +1,6 @@
-package dp.climbing_stars;
+package dp.climbing_stairs;
 
-public class ClimbStairsRecursive implements ClimbingStars{
+public class ClimbStairsRecursive implements ClimbingStairs{
     @Override
     public int climb(int n) {
         if(n==0)
