@@ -1,4 +1,5 @@
 package dsa.search;
 
-public class Searching {
+public interface Searching {
+    int search(int[] arr, int item);
 }
