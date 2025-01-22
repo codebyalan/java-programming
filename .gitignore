@@ -32,3 +32,5 @@ dynamic-programming.iml
 .idea
 
 /src/Main.java
+/src/dsa/graph/minimumcost/Prims.java
+/Notes
