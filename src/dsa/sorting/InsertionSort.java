@@ -1,6 +1,6 @@
 package dsa.sorting;
 
-public class InsertinSort implements Sorting{
+public class InsertionSort implements Sorting{
     @Override
     public int[] sortIntArray(int[] arr) {
 
